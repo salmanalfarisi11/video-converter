@@ -52,10 +52,6 @@ Upload a file, pick a target format, watch the progress pop-up, then download th
 * **Local / Offline**
   Runs entirely on your machine/Space; no third-party upload.
 
-<p align="center">
-  <img src="demo.png" alt="Demo Screenshot" width="780">
-</p>
-
 ---
 
 ## 📁 Project Structure
